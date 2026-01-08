@@ -13,7 +13,7 @@ The work is motivated by challenges in autonomous driving perception, where accu
 - Implemented a **multimodal association framework** to match Camera, LiDAR, and RADAR detections using spatial, temporal, and azimuth-based constraints.
 - Developed **monocular depth estimation** using classical **triangle similarity** as a geometric baseline.
 - Designed a **cross-modal learning pipeline** that uses agreement between Camera and LiDAR at close range to supervise depth learning.
-- Implemented an **depth estimation model** that predicts 3D object depth for distant objects using **only 2D bounding box supervision**.
+- Implemented an **Machine Learning based depth estimation model** that predicts 3D object depth for distant objects using **only 2D bounding box supervision**.
 - Introduced **projection-based augmentation** to improve robustness of depth prediction across long ranges.
 - Evaluated sensor reliability and effective range under **daylight, night, and adverse weather scenarios**.
 
