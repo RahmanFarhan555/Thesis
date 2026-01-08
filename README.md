@@ -81,10 +81,4 @@ The work is motivated by challenges in autonomous driving perception, where accu
 
 ---
 
-## Disclaimer
-This repository contains **academic and experimental work only**.  
 
-
-<img width="442" height="272" alt="image" src="https://github.com/user-attachments/assets/c74768fb-d836-419c-991d-a9bc007a3b50" />
-
-<img width="655" height="449" alt="image" src="https://github.com/user-attachments/assets/53c5351d-92fc-441a-a5df-0f7d19f1e82c" />
